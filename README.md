@@ -12,8 +12,8 @@
 1. `pip install -r requirements.txt`
 2. `python main.py`
 
-Через Docker (у кого он установлен):
-`docker run твой_логин/weather-cli:latest`
+Через Docker:
+`docker run lexakurilovi4/weather-cli:latest`
 
 ## Как проверять результат
 1. При локальном запуске в консоль выводится текущая температура и скорость ветра в Москве.
